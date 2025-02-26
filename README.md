@@ -1,7 +1,6 @@
 # RawNeural
 
-## What is RawNeural?
-RawNeural refers to a basic, no-frills artificial neural network built entirely from scratch using only fundamental tools like NumPy , without relying on advanced machine learning frameworks or libraries (e.g., TensorFlow, PyTorch, or Keras).
+RawNeural refers to a basic neural network built entirely from scratch using only fundamental tools like NumPy , without relying on advanced machine learning frameworks or libraries (e.g., TensorFlow, PyTorch, or Keras).
 
 ---
 ## RawNeural Implementation
