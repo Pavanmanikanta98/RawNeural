@@ -2,6 +2,7 @@
 ---
 ## What Does "RawNeural" Imply?
 The word "Raw" suggests that the neural network is implemented in its most fundamental form, without the use of advanced frameworks or abstractions.
+
 "Neural" refers to artificial neural networks, which are computational models inspired by the human brain. These networks consist of layers of interconnected nodes (neurons) that process input data and learn patterns through training.
 
 ---
